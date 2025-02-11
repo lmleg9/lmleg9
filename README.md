@@ -54,7 +54,7 @@ Discover city highlights and create personalized itineraries
 
 
 <p align="center">
-  <img src="/Images/Screenshot-placay.png"/>
+  <img src="https://raw.githubusercontent.com/lmleg9/lmleg9/main/Images/Screenshot-MyHomeMate.png"/>
 </p>
 <!--
 **lmleg9/lmleg9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
