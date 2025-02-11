@@ -38,10 +38,12 @@ MyHomeMate is a modern and intuitive home search platform designed to simplify t
 
 
 <p align="center">
-  <img src="/Images/Screenshot-MyHomeMate.png" />
+  <img src="Images/Screenshot-MyHomeMate.png" />
 </p>
 
 [Placay](https://github.com/lmleg9/Placay)
+
+Discover city highlights and create personalized itineraries
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
