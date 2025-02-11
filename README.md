@@ -38,7 +38,7 @@ MyHomeMate is a modern and intuitive home search platform designed to simplify t
 
 
 <p align="center">
-  <img src="Images/Screenshot-MyHomeMate.png" />
+  <img src="/Images/Screenshot-MyHomeMate.png" />
 </p>
 
 [Placay](https://github.com/lmleg9/Placay)
@@ -52,7 +52,7 @@ MyHomeMate is a modern and intuitive home search platform designed to simplify t
 
 
 <p align="center">
-  <img src="Images/Screenshot-placay.png" />
+  <img src="/Images/Screenshot-placay.png" />
 </p>
 <!--
 **lmleg9/lmleg9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
