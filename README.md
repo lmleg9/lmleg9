@@ -23,8 +23,8 @@ I’m a software engineer based in Barcelona. Passionate about Front-end and ful
 
 
 
-### What I'm working on 👨‍💻
----
+## What I'm working on 👨‍💻
+
 [MyHomeMate](https://github.com/lmleg9/my-home-mate)
 
 MyHomeMate is a modern and intuitive home search platform designed to simplify the process of finding your next home and a compatible roommate. If you're searching for a flat to rent and a potential flatmate to share it with, MyHomeMate helps connect you with like-minded individuals and suitable living spaces.
@@ -38,7 +38,7 @@ MyHomeMate is a modern and intuitive home search platform designed to simplify t
 
 
 <p align="center">
-  <img src="Images/Screenshot-MyHomeMate.png" />
+  <img src="/Images/Screenshot-MyHomeMate.png" />
 </p>
 
 [Placay](https://github.com/lmleg9/Placay)
